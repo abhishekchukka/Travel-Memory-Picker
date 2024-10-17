@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "1f0c",
+      "cityName": "Betxi",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-25T05:05:54.367Z",
+      "notes": "hjabhjbhjbkj",
+      "position": {
+        "lat": "39.93606595478707",
+        "lng": "-0.204620361328125"
+      }
+    },
+    {
+      "id": "e08b",
+      "cityName": "America",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-25T05:07:20.721Z",
+      "notes": "hhajsdjkasd",
+      "position": {
+        "lat": "39.95449073417355",
+        "lng": "-0.14556884765625003"
+      }
+    },
+    {
+      "id": "968b",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-25T06:24:32.584Z",
+      "notes": "",
+      "position": {
+        "lat": "40.02787395598615",
+        "lng": "-0.0035980673215063605"
+      }
+    },
+    {
+      "id": "4bd3",
+      "cityName": "Adzaneta",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-25T08:53:48.969Z",
+      "notes": "sdnjknbfj",
+      "position": {
+        "lat": "40.22922924104202",
+        "lng": "-0.17989462201558173"
+      }
+    },
+    {
+      "id": "5346",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-17T10:55:23.288Z",
+      "notes": "kjqbjfjkqef",
+      "position": {
+        "lat": "39.99579683552459",
+        "lng": "-0.04119873046875001"
+      }
+    }
+  ]
+}
